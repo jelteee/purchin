@@ -2,5 +2,9 @@
   {
     "username": "test",
     "reason": "test"
+  },
+  {
+    "username": "test2",
+    "reason": "test"
   }
 ]
