@@ -6,5 +6,9 @@
   {
     "username": "test2",
     "reason": "test"
+  },
+  {
+    "username": "test",
+    "reason": "test"
   }
 ]
